@@ -1,0 +1,534 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"remove",
+				"removeClass\t.removeClass()"
+			],
+			[
+				"remo",
+				"removeAttr\t.removeAttr()"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "7d94b2459aa72614a6257dde3879e11dc7490519\n\n",
+			"settings":
+			{
+				"buffer_size": 42,
+				"line_ending": "Windows",
+				"name": "7d94b2459aa72614a6257dde3879e11dc7490519"
+			}
+		},
+		{
+			"contents": "body\n\tbackground red\np \n\tcolor green\n\tpl",
+			"file": "style.styl",
+			"file_size": 39,
+			"file_write_time": 131569474466095231,
+			"settings":
+			{
+				"buffer_size": 40,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/test/gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 8801,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/test/need/необходимые модули и плагины.txt",
+			"settings":
+			{
+				"buffer_size": 865,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/test/app/css/style.css",
+			"settings":
+			{
+				"buffer_size": 396,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 398.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"quick",
+				"Git: Quick Commit (repo)"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"git",
+				"Git: Track Remote Branch"
+			],
+			[
+				"sync",
+				"Sync Settings: Download"
+			]
+		],
+		"width": 448.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"$ git add .",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/test"
+	],
+	"file_history":
+	[
+		"/C/Users/Илья.Iliay/AppData/Roaming/Sublime Text 3/Packages/User/Stylus.sublime-settings",
+		"/C/Users/Илья.Iliay/AppData/Roaming/Sublime Text 3/Packages/Stylus/Stylus.sublime-settings",
+		"/D/test/app/stylus/g.sublime-project",
+		"/C/Users/Илья.Iliay/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/D/test/app/css/main.css",
+		"/D/test/need/gulpfile.js",
+		"/D/test/app/stylus/main.css",
+		"/C/Users/Илья.Iliay/AppData/Roaming/Sublime Text 3/Packages/Gist/Gist.sublime-settings",
+		"/C/Users/Илья.Iliay/AppData/Roaming/Sublime Text 3/Packages/User/Gist.sublime-settings",
+		"/C/Users/Илья.Iliay/AppData/Roaming/Sublime Text 3/Packages/Sync Settings/SyncSettings.sublime-settings",
+		"/C/Users/Илья.Iliay/AppData/Roaming/Sublime Text 3/Packages/User/SyncSettings.sublime-settings",
+		"/C/Users/Илья.Iliay/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/c/users/2c78~1.ili/appdata/local/temp/Default (Windows).sublime-keymap",
+		"/D/test/need/команды github.md",
+		"/D/test/gulpfile.js",
+		"/C/Users/Илья.Iliay/AppData/Roaming/Sublime Text 3/Packages/User/Gulp.sublime-settings",
+		"/C/Users/Илья.Iliay/AppData/Roaming/Sublime Text 3/Packages/Gulp/Gulp.sublime-settings",
+		"/C/Users/Илья.Iliay/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/D/для сайтов/для работы/временная/royalflame.shop/sftp-config.json",
+		"/D/для сайтов/для работы/временная/royalflame.shop/style.css",
+		"/D/для сайтов/для работы/временная/royalflame.shop/header.php",
+		"/D/для сайтов/для работы/временная/royalflame.shop/main-responsive.scss",
+		"/D/для сайтов/для работы/временная/royalflame.shop/_embed.scss",
+		"/D/для сайтов/для работы/временная/royalflame.shop/main.scss",
+		"/D/для сайтов/для работы/временная/royalflame.shop/main.css",
+		"/D/для сайтов/для работы/временная/royalflame.shop/my_scripts.js",
+		"/D/для сайтов/для работы/временная/royalflame.shop/_typography.scss",
+		"/D/для сайтов/для работы/временная/royalflame.shop/_variables.scss",
+		"/D/для сайтов/для работы/временная/royalflame.shop/_base.scss",
+		"/D/для сайтов/для работы/временная/royalflame.shop/_alerts.scss",
+		"/D/для сайтов/для работы/временная/royalflame.shop/_site.scss",
+		"/D/для сайтов/для работы/временная/royalflame.shop/main.css.map",
+		"/D/для сайтов/для работы/временная/royalflame.shop/page.tmpl",
+		"/D/для сайтов/для работы/временная/royalflame.shop/menus.php",
+		"/D/для сайтов/для работы/временная/royalflame.shop/README.md",
+		"/D/для сайтов/для работы/временная/royalflame.shop/base.php",
+		"/D/для сайтов/для работы/временная/royalflame.shop/header-menu.php",
+		"/D/openservice_526/OpenServer/domains/opencart_2101/upload/catalog/controller/product/fastorder.php",
+		"/D/openservice_526/OpenServer/domains/forum-m-b/conf_global.php",
+		"/D/test/need/команды gulp.md",
+		"/D/для сайтов/сами сайты/рабочие сайты/черновик a7z.ru/template.php",
+		"/D/для сайтов/для работы/временная/royalflame.shop/page.php",
+		"/D/для сайтов/для работы/временная/royalflame.shop/class-tgm-plugin-activation.php",
+		"/D/для сайтов/для работы/временная/royalflame.shop/header-logo.php",
+		"/D/для сайтов/для работы/временная/royalflame.shop/archive-product.php",
+		"/D/для сайтов/для работы/временная/royalflame.shop/single-product.php",
+		"/D/для сайтов/для работы/временная/royalflame.shop/image.tmpl",
+		"/D/для сайтов/для работы/временная/royalflame.shop/functions.php",
+		"/D/для сайтов/для работы/временная/royalflame.shop/comments.php",
+		"/D/для сайтов/для работы/временная/royalflame.shop/static-areas.php",
+		"/D/для сайтов/для работы/временная/royalflame.shop/primary.php",
+		"/D/для сайтов/для работы/временная/royalflame.shop/secondary.php",
+		"/D/для сайтов/для работы/временная/royalflame.shop/wrapper-header.php",
+		"/D/для сайтов/для работы/временная/royalflame.shop/cherry-options.php",
+		"/D/openservice_526/OpenServer/domains/forum-m/public/style_css/css_4/sftp-config.json",
+		"/D/test/app/css/css_7.css",
+		"/D/test/app/index.html",
+		"/D/test/app/css/ipb_styles.css",
+		"/D/openservice_526/OpenServer/domains/forum-m/public/style_css/css_4/ipb_styles.css",
+		"/D/test/app/index.min.html",
+		"/C/Users/Илья.Iliay/AppData/Roaming/Sublime Text 3/Packages/Colorcoder/colorcoder.sublime-settings",
+		"/D/test/need/команды bower.md",
+		"/D/test/need/настройка SFTP для Sublimetext.md",
+		"/D/test/app/js/script.js",
+		"/D/test/app/js/libs.min.js",
+		"/D/test/,bowerrc",
+		"/D/test/app/css/ipb_styles.min.css",
+		"/D/openservice_526/OpenServer/domains/opencart_2101/upload/admin/config.php",
+		"/D/openservice_526/OpenServer/domains/opencart_2101/upload/catalog/view/theme/default/stylesheet/stylesheet.css",
+		"/D/test/dist/image/script.js",
+		"/D/openservice_526/OpenServer/domains/opencart_2101/upload/config.php",
+		"/D/openservice_526/OpenServer/domains/opencart_2101/upload/catalog/view/theme/default/template/module/ebay_listing.tpl",
+		"/D/openservice_526/OpenServer/domains/opencart_2101/upload/catalog/view/theme/default/template/module/account.tpl",
+		"/D/openservice_526/OpenServer/domains/forum-m/js/script.js",
+		"/C/Users/Илья.Iliay/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 42,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								40,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "7d94b2459aa72614a6257dde3879e11dc7490519",
+							"default_dir": "D:\\test",
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "style.styl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 40,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								40,
+								40
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/test/gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8801,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5098,
+								5098
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1395.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/D/test/need/необходимые модули и плагины.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 865,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								253,
+								253
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "/D/test/app/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 396,
+						"regions":
+						{
+							"gutter_color_33":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#008000.png",
+								"regions":
+								[
+									[
+										33,
+										50
+									]
+								],
+								"scope": "gutter_color"
+							},
+							"gutter_color_7":
+							{
+								"flags": 144,
+								"icon": "Cache/GutterColor/#f00.png",
+								"regions":
+								[
+									[
+										7,
+										26
+									]
+								],
+								"scope": "gutter_color"
+							}
+						},
+						"selection":
+						[
+							[
+								396,
+								396
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 98.0
+	},
+	"output.gulp_output":
+	{
+		"height": 98.0
+	},
+	"output.sftp":
+	{
+		"height": 98.0
+	},
+	"pinned_build_system": "",
+	"project": "g.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
